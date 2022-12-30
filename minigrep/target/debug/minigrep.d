@@ -1,1 +1,0 @@
-/home/federico/Nextcloud/Projects/learn_rust/minigrep/target/debug/minigrep: /home/federico/Nextcloud/Projects/learn_rust/minigrep/src/lib.rs /home/federico/Nextcloud/Projects/learn_rust/minigrep/src/main.rs
